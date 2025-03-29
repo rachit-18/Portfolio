@@ -22,10 +22,9 @@ const projects = [
     category: "Web Development",
     title: "Project One",
     description: "A cool project built with modern technologies.",
-    stack: ["HTML5", "CSS3", "JavaScript"],
-    image: "/project1.png",
-    live: "https://example.com",
-    github: "https://github.com/example",
+    stack: ["Php(Laravel)", "CSS3", "JavaScript"],
+    image: "/assets/work/project1.png",
+    github: "https://github.com/rachit-18/tech_forum",
   },
   {
     num: "02",

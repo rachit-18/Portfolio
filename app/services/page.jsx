@@ -8,25 +8,19 @@ const Services = [
   {
     num: '01',
     title: "Web development",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, ratione? .",
+    description: "Full-Stack Development – Combining both frontend and backend skills to build complete web applications.",
     href: ""
   },
   {
     num: '02',
     title: "UI/UX",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, ratione? .",
+    description: "UI/UX (User Interface & User Experience) Design focuses on creating visually appealing and user-friendly web applications.",
     href: ""
   },
   {
     num: '03',
     title: "Logo",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, ratione? .",
-    href: ""
-  },
-  {
-    num: '04',
-    title: "SEO",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, ratione? .",
+    description: "A good logo is simple, memorable, versatile, and relevant to the brand's identity.",
     href: ""
   },
 ]

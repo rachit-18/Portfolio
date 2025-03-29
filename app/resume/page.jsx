@@ -9,11 +9,11 @@ import { motion } from "framer-motion";
 // About, Experience, Education, and Skills data
 const about = {
   title: "About me",
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, dignissimos?",
+  description: "It describes who I am and all the necessary information.",
   info: [
     { fieldName: "Name", fieldValue: "Rachit Pal" },
     { fieldName: "Phone", fieldValue: "(+91) 8448101918" },
-    { fieldName: "Experience", fieldValue: "2+ Years" },
+    { fieldName: "Experience", fieldValue: "1+ Years" },
     { fieldName: "Nationality", fieldValue: "Indian" },
     { fieldName: "Email", fieldValue: "rachitpal31@gmail.com" },
     { fieldName: "Languages", fieldValue: "English / Hindi" },
@@ -24,8 +24,9 @@ const experience = {
   title: "My Experience",
   description: "Brief description about experience.",
   items: [
-    { company: "Company A", position: "Software Developer", duration: "2022 - Present" },
-    { company: "Company B", position: "Intern", duration: "2021 - 2022" },
+    { company: "Smart India Hackathon", position: "Backend Developer", duration: "2024" },
+    { company: "Hack Vortex", position: "Full Stack", duration: "2024" },
+    {company: "College Project", position: "Backend Developer", duration: "2023"},
   ],
 };
 
@@ -33,6 +34,7 @@ const education = {
   title: "My Education",
   description: "Educational background summary.",
   items: [
+    { institution: "D.L.D.A.V Model School, Shalimar Bagh", degree: "High School", duration: "2014 - 2023" },
     { institution: "Jagan Institute of Management Studies, Rohini", degree: "BCA", duration: "2023 - 2026" },
   ],
 };
